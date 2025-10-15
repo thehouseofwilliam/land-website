@@ -1,0 +1,29 @@
+{
+  "-O8xKj2mNpQr7sLw3vZa": {
+    "id": "-O8xKj2mNpQr7sLw3vZa",
+    "address": "16419 Akron Street",
+    "city": "Pacific Palisades",
+    "state": "CA",
+    "zip": "90272",
+    "lat": 34.0508545,
+    "lng": -118.539976
+  },
+  "-O8xKj5tRbCd9fGh2nMl": {
+    "id": "-O8xKj5tRbCd9fGh2nMl",
+    "address": "16426 Akron Street",
+    "city": "Pacific Palisades",
+    "state": "CA",
+    "zip": "90272",
+    "lat": 34.0504773,
+    "lng": -118.5403409
+  },
+  "-O8xKj8vWxYz4pTq6kJm": {
+    "id": "-O8xKj8vWxYz4pTq6kJm",
+    "address": "16401 Akron Street",
+    "city": "Pacific Palisades",
+    "state": "CA",
+    "zip": "90272",
+    "lat": 34.0502985,
+    "lng": -118.53973
+  }
+}
